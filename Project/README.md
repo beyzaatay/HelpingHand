@@ -1,59 +1,73 @@
+HelpingHand: Extend a Helping Hand
+HelpingHand is a platform that facilitates the delivery of aid to those in need. Through our app, you can easily find aid collection and distribution points, contact aid organizations, and support those in need.
 
-# helpinghand
-### Table of contents
-- [System requirements](#system-requirements)
-- [Figma design guidelines for better UI accuracy](#figma-design-guideline-for-better-accuracy)
-- [Check the UI of the entire app](#app-navigations)
-- [Application structure](#project-structure)
-- [How to format your code?](#how-you-can-do-code-formatting)
-- [How you can improve code readability?](#how-you-can-improve-the-readability-of-code)
-- [Libraries and tools used](#libraries-and-tools-used)
-- [Support](#support)
+Features:
 
-### System requirements
+*List of aid collection and distribution points
+*Names of aid organizations, institutions, or individuals and categories of aid products
+*Locations and details of aid announcements
+*Locations and details of aid points on the map
+*Manage your personal information
+*Apply to create an aid point
 
-Dart SDK Version 2.18.0 or greater.
-Flutter SDK Version 3.3.0 or greater.
+How to Use:
+*Log in to the app.
+*List the aid collection or distribution points.
+*Click on an aid ad.
+*Learn the location and details of the ad.
+*Find aid points on the map.
+*Manage your personal information from your profile page.
+*Apply to create an aid point.
 
-### Figma design guidelines for better UI accuracy
+With HelpingHand:
 
-Read our guidelines to increase the accuracy of design-to-code conversion by optimizing Figma designs.
+*You can easily reach those in need of help.
+*You can contact aid organizations and institutions.
+*You can follow aid collection and distribution points.
+*You can contribute to aid activities.
+*Download now and extend a helping hand with HelpingHand!
+
+Platforms:
+
+*Android
+*iOS
+
+Thank you!
+
+Additional Information:
+
+System Requirements:
+Android SDK Version 2.18.0 or above
+Flutter SDK Version 3.3.0 or above
+Figma Design Guidelines:
 https://docs.dhiwise.com/docs/Designguidelines/intro
 
-### Check the UI of the entire app
-
-Check the UI of all the app screens from a single place by setting up the 'initialRoute'  to AppNavigation in the AppRoutes.dart file.
-
-### Application structure
-After successful build, your application structure should look like this:
-                    
-```
+After a successful build, you should see the following directory structure:
 .
-├── android                         - It contains files required to run the application on an Android platform.
-├── assets                          - It contains all images and fonts of your application.
-├── ios                             - It contains files required to run the application on an iOS platform.
-├── lib                             - Most important folder in the application, used to write most of the Dart code..
-    ├── main.dart                   - Starting point of the application
-    ├── core
-    │   ├── app_export.dart         - It contains commonly used file imports
-    │   ├── constants               - It contains static constant class file
-    │   └── utils                   - It contains common files and utilities of the application
-    ├── presentation                - It contains widgets of the screens
-    ├── routes                      - It contains all the routes of the application
-    └── theme                       - It contains app theme and decoration classes
-    └── widgets                     - It contains all custom widget classes
-```
-### How to format your code?
+├── android
+├── assets
+├── ios
+├── lib
+│   ├── main.dart
+│   ├── core
+│   │   ├── app_export.dart
+│   │   ├── constants
+│   │   └── utils
+│   ├── presentation
+│   │   └── ... (screen widgets)
+│   ├── routes
+│   │   └── ... (navigation routes)
+│   └── theme
+│       └── ... (theme and decoration classes)
+│   └── widgets
+│       └── ... (custom widget classes)
+Code Formatting and Readability:
+To maintain clean and readable code:
+*Run the dart format . command in your terminal for consistent formatting.
+Fix all errors and warnings displayed in the IDE.
+Libraries and Tools Used:
+*The full list is available in the dependencies section of the pubspec.yaml file.
+Contributing:
+For information on how to participate in code development and testing, refer to the CONTRIBUTING.md file.
 
-- if your code is not formatted then run following command in your terminal to format code
-  ```
-  dart format .
-  ```
-
-### How you can improve code readability?
-
-Resolve the errors and warnings that are shown in the application.
-
-### Support
-
-If you have any problems or questions, go to our Discord channel, where we will help you as quickly as possible: https://discord.com/invite/rFMnCG5MZ7
+Take action today to extend a helping hand using HelpingHand!
