@@ -34,7 +34,7 @@ HelpingHand is a platform that facilitates the delivery of aid to those in need.
 - Android
 - iOS
 
-## Thank you!
+
 
 # Additional Information:
 
