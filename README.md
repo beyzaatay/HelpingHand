@@ -8,8 +8,8 @@ HelpingHand is a platform that facilitates the delivery of aid to those in need.
 - Names of aid organizations, institutions, or individuals and categories of aid products
 - Locations and details of aid announcements
 - Locations and details of aid points on the map
-- Manage your personal information
-- Apply to create an aid point
+-Show your personal information
+
 
 ## How to Use:
 
@@ -23,8 +23,6 @@ Using the information above, you can log in to the app and take advantage of all
 3. Click on an aid ad.
 4. Learn the location and details of the ad.
 5. Find aid points on the map.
-6. Manage your personal information from your profile page.
-7. Apply to create an aid point.
 
 ## With HelpingHand:
 
