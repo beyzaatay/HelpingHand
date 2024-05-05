@@ -35,6 +35,7 @@ Using the information above, you can log in to the app and take advantage of all
 ## Platforms:
 
 - Android
+- IOS
 
 
 
