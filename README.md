@@ -14,7 +14,7 @@ HelpingHand is a platform that facilitates the delivery of aid to those in need.
 ## How to Use:
 
 Mail: helpinghand@gmail.com
-Password 123456qwe
+Password: 123456qwe
 
 Using the information above, you can log in to the app and take advantage of all the features HelpingHand has to offer.
 
