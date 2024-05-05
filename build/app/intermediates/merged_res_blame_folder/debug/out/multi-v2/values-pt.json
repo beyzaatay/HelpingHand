@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.helpinghand.app-mergeDebugResources-16:/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Batur\\.gradle\\caches\\transforms-3\\0ab4ba9bb9fc6e088f24b30ed50e8fbf\\transformed\\browser-1.4.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,170,269,381",
+                        "endColumns": "114,98,111,105",
+                        "endOffsets": "165,264,376,482"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Batur\\.gradle\\caches\\transforms-3\\6bfd2d90bd86aa362af48516ac4f3d03\\transformed\\core-1.6.0\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "487",
+                        "endColumns": "100",
+                        "endOffsets": "583"
+                    }
+                }
+            ]
+        }
+    ]
+}

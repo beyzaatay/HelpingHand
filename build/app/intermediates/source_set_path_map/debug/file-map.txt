@@ -1,0 +1,26 @@
+com.helpinghand.app-browser-1.4.0-0 C:\Users\Batur\.gradle\caches\transforms-3\0ab4ba9bb9fc6e088f24b30ed50e8fbf\transformed\browser-1.4.0\res
+com.helpinghand.app-jetified-play-services-basement-18.3.0-1 C:\Users\Batur\.gradle\caches\transforms-3\1b4d0da57c8293943676178e314ef147\transformed\jetified-play-services-basement-18.3.0\res
+com.helpinghand.app-jetified-window-1.0.0-beta04-2 C:\Users\Batur\.gradle\caches\transforms-3\2228b94d71f36767c360589fd2446fa7\transformed\jetified-window-1.0.0-beta04\res
+com.helpinghand.app-jetified-play-services-base-18.0.1-3 C:\Users\Batur\.gradle\caches\transforms-3\392141cf5bedce597043b7287065e6ce\transformed\jetified-play-services-base-18.0.1\res
+com.helpinghand.app-jetified-android-maps-utils-3.6.0-4 C:\Users\Batur\.gradle\caches\transforms-3\3932c0358e03d401e6c5dfa764d72d01\transformed\jetified-android-maps-utils-3.6.0\res
+com.helpinghand.app-core-1.6.0-5 C:\Users\Batur\.gradle\caches\transforms-3\6bfd2d90bd86aa362af48516ac4f3d03\transformed\core-1.6.0\res
+com.helpinghand.app-jetified-play-services-maps-18.2.0-6 C:\Users\Batur\.gradle\caches\transforms-3\7f81d61f0420378e24f701e3620f949c\transformed\jetified-play-services-maps-18.2.0\res
+com.helpinghand.app-jetified-window-java-1.0.0-beta04-7 C:\Users\Batur\.gradle\caches\transforms-3\8fc9c9f45e4fc79bf888a85b890482c3\transformed\jetified-window-java-1.0.0-beta04\res
+com.helpinghand.app-jetified-firebase-common-20.4.3-8 C:\Users\Batur\.gradle\caches\transforms-3\9b1b5db0e245409f12095a3f76f0675a\transformed\jetified-firebase-common-20.4.3\res
+com.helpinghand.app-jetified-annotation-experimental-1.1.0-9 C:\Users\Batur\.gradle\caches\transforms-3\c2d55408842de8b8b6204b295755369a\transformed\jetified-annotation-experimental-1.1.0\res
+com.helpinghand.app-debug-10 D:\Unity Proje\SolutionChallege\android\app\src\debug\res
+com.helpinghand.app-main-11 D:\Unity Proje\SolutionChallege\android\app\src\main\res
+com.helpinghand.app-google-services-12 D:\Unity Proje\SolutionChallege\build\app\generated\res\google-services\debug
+com.helpinghand.app-pngs-13 D:\Unity Proje\SolutionChallege\build\app\generated\res\pngs\debug
+com.helpinghand.app-resValues-14 D:\Unity Proje\SolutionChallege\build\app\generated\res\resValues\debug
+com.helpinghand.app-rs-15 D:\Unity Proje\SolutionChallege\build\app\generated\res\rs\debug
+com.helpinghand.app-mergeDebugResources-16 D:\Unity Proje\SolutionChallege\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.helpinghand.app-mergeDebugResources-17 D:\Unity Proje\SolutionChallege\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.helpinghand.app-merged_res-18 D:\Unity Proje\SolutionChallege\build\app\intermediates\merged_res\debug
+com.helpinghand.app-packaged_res-19 D:\Unity Proje\SolutionChallege\build\cloud_firestore\intermediates\packaged_res\debug
+com.helpinghand.app-packaged_res-20 D:\Unity Proje\SolutionChallege\build\firebase_auth\intermediates\packaged_res\debug
+com.helpinghand.app-packaged_res-21 D:\Unity Proje\SolutionChallege\build\firebase_core\intermediates\packaged_res\debug
+com.helpinghand.app-packaged_res-22 D:\Unity Proje\SolutionChallege\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.helpinghand.app-packaged_res-23 D:\Unity Proje\SolutionChallege\build\google_maps_flutter_android\intermediates\packaged_res\debug
+com.helpinghand.app-packaged_res-24 D:\Unity Proje\SolutionChallege\build\path_provider_android\intermediates\packaged_res\debug
+com.helpinghand.app-packaged_res-25 D:\Unity Proje\SolutionChallege\build\sqflite\intermediates\packaged_res\debug
