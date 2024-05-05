@@ -13,6 +13,11 @@ HelpingHand is a platform that facilitates the delivery of aid to those in need.
 
 ## How to Use:
 
+Mail: helpinghand@gmail.com
+Password 123456qwe
+
+Using the information above, you can log in to the app and take advantage of all the features HelpingHand has to offer.
+
 1. Log in to the app.
 2. List the aid collection or distribution points.
 3. Click on an aid ad.
