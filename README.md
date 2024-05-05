@@ -35,7 +35,6 @@ Using the information above, you can log in to the app and take advantage of all
 ## Platforms:
 
 - Android
-- iOS
 
 
 
@@ -48,25 +47,6 @@ Using the information above, you can log in to the app and take advantage of all
 ## Figma Design Guidelines:
 [Link to Figma Design Guidelines](https://docs.dhiwise.com/docs/Designguidelines/intro)
 
-## After a Successful Build, Directory Structure:
-.
-├── android
-├── assets
-├── ios
-├── lib
-│ ├── main.dart
-│ ├── core
-│ │ ├── app_export.dart
-│ │ ├── constants
-│ │ └── utils
-│ ├── presentation
-│ │ └── ... (screen widgets)
-│ ├── routes
-│ │ └── ... (navigation routes)
-│ └── theme
-│ └── ... (theme and decoration classes)
-│ └── widgets
-│ └── ... (custom widget classes)
 
 ## Code Formatting and Readability:
 To maintain clean and readable code:
