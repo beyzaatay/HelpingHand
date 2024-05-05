@@ -1,3 +1,7 @@
+#Demo Account:
+helpinghand@gmail.com
+123456qwe
+
 # HelpingHand: Extend a Helping Hand
 
 HelpingHand is a platform that facilitates the delivery of aid to those in need. Through our app, you can easily find aid collection and distribution points, contact aid organizations, and support those in need.
